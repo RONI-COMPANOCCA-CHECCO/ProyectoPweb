@@ -23,7 +23,9 @@ public class Calculadora {
 			    System.out.println("La Resta es igual a: "+resultado);
 			    break;				
 			case 3:
-				
+			   resultado=num1*num2;
+			   System.out.println("El Producto es igual a: "+resultado);
+			   break;
 			case 4:
 				
 			case 5:
