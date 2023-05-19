@@ -27,7 +27,9 @@ public class Calculadora {
 			   System.out.println("El Producto es igual a: "+resultado);
 			   break;
 			case 4:
-				
+			   resultado=num1/num2;
+			   System.out.println("La Division es igual a: "+resultado);
+			   break;
 			case 5:
 				
 			}
