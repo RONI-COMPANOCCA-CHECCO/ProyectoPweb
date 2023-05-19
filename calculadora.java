@@ -19,7 +19,9 @@ public class Calculadora {
 				System.out.println("La suma es igual a: "+resultado);
 				break;
 			case 2:
-				
+			    resultado=num1-num2;
+			    System.out.println("La Resta es igual a: "+resultado);
+			    break;				
 			case 3:
 				
 			case 4:
