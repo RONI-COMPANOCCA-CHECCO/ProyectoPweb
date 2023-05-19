@@ -31,7 +31,9 @@ public class Calculadora {
 			   System.out.println("La Division es igual a: "+resultado);
 			   break;
 			case 5:
-				
+			   resultado=num1%num2;
+			   System.out.println("El Modulo es igual a: "+resultado);
+			   break;
 			}
 
 	}
