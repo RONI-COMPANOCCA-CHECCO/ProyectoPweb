@@ -399,24 +399,31 @@ Primer repositorio en GitHub
 ## COMMIT 3
 ><a href="https://imgbb.com/"><img src="https://i.ibb.co/88LTFM7/imagen-33.jpg" alt="imagen-33" border="0"></a>
 - Cree un proyecto grupal para resolver el siguiente problema: Se desea crear una clase Calculator en Java, que tenga las siguientes operaciones: add, sub, mul, div, mod; estas operaciones recibirán dos enteros y devolverán un entero. (Forme grupos de 3 a 5 personas). Cree ramas para cada integrante y cada cierto tiempo una las ramas al main. No elimine nada para evidenciar ramas, main y commits.
+#
 - Debería haber minimo 7 commits:
 #
 ><a href="https://imgbb.com/"><img src="https://i.ibb.co/q9XfS3R/a2.jpg" alt="a2" border="0"></a>
+#
     - 1er commit - Creación de la plantilla "Calculator.java"
 #
 ><a href="https://ibb.co/yyjS8VV"><img src="https://i.ibb.co/pzFy3nn/a1.jpg" alt="a1" border="0"></a>
+#
     - 2do commit - Uniendo rama "ramma-add" al "main" para obtener metodo add().
 #
 ><a href="https://imgbb.com/"><img src="https://i.ibb.co/4gKV7Yr/a3.jpg" alt="a3" border="0"></a>
+#
     - 3er commit - Uniendo rama "ramma-sub" al "main" para obtener metodo sub().
 #
 ><a href="https://imgbb.com/"><img src="https://i.ibb.co/DK8ZK5f/a4.jpg" alt="a4" border="0"></a>
+#
     - 4to commit - Uniendo rama "ramma-mul" al "main" para obtener metodo mul().
 #
 ><a href="https://imgbb.com/"><img src="https://i.ibb.co/QnJtL4n/a5.jpg" alt="a5" border="0"></a>
+#
     - 5to commit - Uniendo rama "ramma-div" al "main" para obtener metodo div().
 #
 ><a href="https://imgbb.com/"><img src="https://i.ibb.co/Lpcg51V/a6.jpg" alt="a6" border="0"></a>
+#
     - 6to commit - Uniendo rama "ramma-mod" al "main" para obtener metodo mod().
 #
 ><a href="https://imgbb.com/"><img src="https://i.ibb.co/sbSvGXk/a7.jpg" alt="a7" border="0"></a>
