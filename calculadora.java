@@ -13,7 +13,29 @@ public class Calculadora {
 		System.out.println("Elija una opcion");
 		System.out.println("1._Suma 2._Resta 3._Multiplicacion 4._Division 5._Modulo");
 		respuesta=obj.nextInt();
-		
+		switch(respuesta) {
+			case 1:
+				resultado=num1+num2;
+				System.out.println("La suma es igual a: "+resultado);
+				break;
+			case 2:
+			    resultado=num1-num2;
+			    System.out.println("La Resta es igual a: "+resultado);
+			    break;				
+			case 3:
+			   resultado=num1*num2;
+			   System.out.println("El Producto es igual a: "+resultado);
+			   break;
+			case 4:
+			   resultado=num1/num2;
+			   System.out.println("La Division es igual a: "+resultado);
+			   break;
+			case 5:
+			   resultado=num1%num2;
+			   System.out.println("El Modulo es igual a: "+resultado);
+			   break;
+			}
+
 
 	}
 
